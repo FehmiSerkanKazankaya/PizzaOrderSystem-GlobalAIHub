@@ -1,2 +1,2 @@
 # PizzaOrderSystem-GlobalAIHub
-Final Project of Global AI Hub Python Bootcamp
+The project aims for users to design their own pizza and add the user to the database after payment.
